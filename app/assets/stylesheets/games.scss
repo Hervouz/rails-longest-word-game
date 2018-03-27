@@ -1,0 +1,32 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.random {
+  display: inline-block;
+  padding: 10px 10px;
+  background-color: #0B83C4;
+  font-size: 50px;
+  font-weight: 30px;
+  color: rgb(255,255,255);
+  font-family: 'IBM Plex Sans', 700;
+  width: 60px;
+  height: 60px;
+  margin: 10px 10px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'IBM Plex Sans', 700;
+}
+
+form {
+  margin: 0;
+  font-family: "Varela", sans-serif;
+  margin-top: 50px;
+}
+
+.blocka {
+  display: flex;
+  margin: 10px auto;
+}
+
